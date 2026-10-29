@@ -1,0 +1,6 @@
+{
+  "name": "VeloStream",
+  "description": "Production-grade Facebook video extractor and MP4 downloader with real metadata extraction, quality selection, streaming downloads, SSRF security, RTL Arabic/French/English localization, and adaptive dark/light themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

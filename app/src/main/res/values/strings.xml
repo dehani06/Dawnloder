@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VeloStream</string>
+    <string name="hero_badge_facebook">Facebook Video Extractor v1.0</string>
+    <string name="content_desc_logo">VeloStream Logo</string>
+    <string name="content_desc_theme_toggle">Toggle Light or Dark Mode</string>
+    <string name="content_desc_language_selector">Select Interface Language</string>
+    <string name="content_desc_paste_url">Paste video URL from clipboard</string>
+    <string name="content_desc_clear_url">Clear video URL input</string>
+    <string name="content_desc_video_thumbnail">Extracted video thumbnail</string>
+</resources>
